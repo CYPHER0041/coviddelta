@@ -1,4 +1,4 @@
-**COVID Delta**
+## **COVID Delta**
 
 ## [Link to website](https://coviddelta.carrd.co/)
 
