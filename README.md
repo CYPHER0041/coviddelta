@@ -17,7 +17,7 @@ This is an open-source project, community contributions are welcome.
 
 1. **[Carrd](https://carrd.co/)**: Used to design and host the landing page for the website
 
-2. **[IBM Cloud Foundry](https://www.ibm.com/in-en/cloud/cloud-foundry)**: Used to host our website
+2. **[Amazon Elastic Compute Cloud](https://aws.amazon.com/ec2)**: Used to host our website
 
 3. **[UCraft](https://www.ucraft.com/free-logo-maker?ref=NoCode)**: Used to design the logo for the application
 
